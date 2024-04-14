@@ -6,4 +6,4 @@ Python [NoGo](https://boardgamegeek.com/boardgame/151419/nogo) game bot based on
 Configure the player 1 and 2 in `nogo/play.py` and run the script.
 
 ### General
-Use any GTP-compatible Go software (like [GoGUI](https://github.com/Remi-Coulom/gogui)) and attach `nogo/Manius/nogo4.py`.
+Use any GTP-compatible Go software (like [GoGUI](https://github.com/Remi-Coulom/gogui)) and attach `nogo/mcts_player/nogo4.py`.
